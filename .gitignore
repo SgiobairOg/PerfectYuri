@@ -1,0 +1,22 @@
+## Ignore All
+*
+*/
+
+## Whitelist directories
+!*/
+
+## Distribution
+!dist/*
+
+## Ignore Logs
+logs/
+
+## Bundle Script
+!bundle.sh
+
+## Readme
+!README.md
+
+## Attributes
+!.gitattributes
+!.gitignore
